@@ -9,6 +9,6 @@ Use the SVG (vector) logos whenever possible.
 
 ## Colours
 
-Primary Colour: `#019add`
+Primary Colour: `#009add`
 
 ## Type
